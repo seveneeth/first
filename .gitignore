@@ -11,9 +11,13 @@ dist/
 
 # editor
 .vscode/*
-!.vscode/extensions.json
+!.vscode/extensions.json/
 
 # misc
-.DS_Store
+.DS_Store/
 *.log
 .env*
+
+backend/venv/
+
+.gitignore/
